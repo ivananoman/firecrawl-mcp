@@ -1,0 +1,11 @@
+{
+  "name": "firecrawl-mcp",
+  "version": "1.0.0",
+  "description": "MCP server Firecrawl en mode SSE pour n8n",
+  "scripts": {
+    "start": "npx -y firecrawl-mcp"
+  },
+  "dependencies": {
+    "firecrawl-mcp": "^1.10.0"
+  }
+}
